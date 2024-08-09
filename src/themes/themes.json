@@ -1,0 +1,178 @@
+{
+    "defaultTheme": {
+      "palette": {
+        "mode": "light",
+        "primary": {
+          "main": "#1976d2"   
+        },
+        "secondary": {
+          "main": "#388e3c"  
+        },
+        "error": {
+          "main": "#f44336"  
+        },
+        "warning": {
+          "main": "#ff9800"  
+        },
+        "info": {
+          "main": "#2196f3"  
+        },
+        "success": {
+          "main": "#4caf50"  
+        },
+        "background": {
+          "default": "#ffffff",  
+          "paper": "#f0f0f0"     
+        },
+        "text": {
+          "primary": "#333333",  
+          "secondary": "#666666" 
+        },
+        "button": {
+          "main": "#1976d2",  
+          "text": "#ffffff"    
+        }
+      }
+    },
+    "darkTheme": {
+      "palette": {
+        "mode": "dark",
+        "primary": {
+          "main": "#90caf9"  
+        },
+        "secondary": {
+          "main": "#fbc02d"  
+        },
+        "error": {
+          "main": "#f44336"  
+        },
+        "warning": {
+          "main": "#ff9800"  
+        },
+        "info": {
+          "main": "#2196f3" 
+        },
+        "success": {
+          "main": "#4caf50" 
+        },
+        "background": {
+          "default": "#121212", 
+          "paper": "#1e1e1e"     
+        },
+        "text": {
+          "primary": "#ffffff",  
+          "secondary": "#aaaaaa" 
+        },
+        "button": {
+          "main": "#90caf9",  
+          "text": "#ffffff"   
+        }
+      }
+    },
+    "custom1Theme": {
+      "palette": {
+        "mode": "light",
+        "primary": {
+          "main": "#e91e63" 
+        },
+        "secondary": {
+          "main": "#9c27b0" 
+        },
+        "error": {
+          "main": "#f44336" 
+        },
+        "warning": {
+          "main": "#ff9800" 
+        },
+        "info": {
+          "main": "#00bcd4"  
+        },
+        "success": {
+          "main": "#8bc34a" 
+        },
+        "background": {
+          "default": "#ffffff", 
+          "paper": "#f0f0f0"     
+        },
+        "text": {
+          "primary": "#333333", 
+          "secondary": "#666666" 
+        },
+        "button": {
+          "main": "#e91e63",   
+          "text": "#ffffff"    
+        }
+      }
+    },
+    "custom2Theme": {
+      "palette": {
+        "mode": "light",
+        "primary": {
+          "main": "#673ab7" 
+        },
+        "secondary": {
+          "main": "#ffc107"  
+        },
+        "error": {
+          "main": "#f44336"  
+        },
+        "warning": {
+          "main": "#ff9800" 
+        },
+        "info": {
+          "main": "#2196f3"  
+        },
+        "success": {
+          "main": "#4caf50"  
+        },
+        "background": {
+          "default": "#121212", 
+          "paper": "#1e1e1e"    
+        },
+        "text": {
+          "primary": "#ffffff",  
+          "secondary": "#aaaaaa" 
+        },
+        "button": {
+          "main": "#673ab7",  
+          "text": "#ffffff"   
+        }
+      }
+    },
+    "custom3Theme": {
+      "palette": {
+        "mode": "light",
+        "primary": {
+          "main": "#131842" 
+        },
+        "secondary": {
+          "main": "#E68369"  
+        },
+        "error": {
+          "main": "#ECCEAE"  
+        },
+        "warning": {
+          "main": "#FBF6E2" 
+        },
+        "info": {
+          "main": "#758694"  
+        },
+        "success": {
+          "main": "#405D72"  
+        },
+        "background": {
+          "default": "#121212", 
+          "paper": "#1e1e1e"    
+        },
+        "text": {
+          "primary": "#ffffff",  
+          "secondary": "#aaaaaa" 
+        },
+        "button": {
+          "main": "#673ab7",  
+          "text": "#ffffff"   
+        }
+      }
+    }
+  }
+  
